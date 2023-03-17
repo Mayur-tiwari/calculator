@@ -41,5 +41,24 @@
 .keys>p:hover{
     background-color: rgb(197, 195, 195);
 }
+@media screen and (min-width:600px) {
+    .symbols>p{
+     padding: 0px 2px 0px 2px;
+     
+    }
+    .keys>p{
+        padding: 0px 8px 0px 8px;
+        margin-left: 5px;
+        
+    }
+    .symbols{
+        margin-left: 10px;
+    }
+  
+   
+  
+  
+    
+  }
 
 

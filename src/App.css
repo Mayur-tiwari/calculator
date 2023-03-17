@@ -50,3 +50,14 @@
   height: 45px;
 
 }
+@media screen and (min-width:600px) {
+  .calci-div{
+    height: 400px;
+    width: 200px;
+  }
+
+ 
+
+
+  
+}
