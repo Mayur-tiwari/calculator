@@ -42,19 +42,19 @@
     background-color: rgb(197, 195, 195);
 }
 @media screen and (max-width:600px) {
-    .symbols>p{
-     padding: 0px 2px 0px 2px;
+     .symbols>p{
+     padding: 0px 4px 0px 4px;
      
     }
     .keys>p{
-        padding: 0px 8px 0px 8px;
-        margin-left: 5px;
+        padding: 0px 10px 0px 10px;
+        margin-left: 10px;
         
     }
     .symbols{
-        margin-left: 10px;
+        margin-left: 15px;
     }
-  
+   
    
   
   
